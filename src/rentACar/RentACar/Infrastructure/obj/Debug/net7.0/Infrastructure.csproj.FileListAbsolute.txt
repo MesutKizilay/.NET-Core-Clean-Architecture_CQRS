@@ -9,3 +9,15 @@ C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

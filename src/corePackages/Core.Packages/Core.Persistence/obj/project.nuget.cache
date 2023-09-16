@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtUaPArD4mVJXCNQo8uFldZ4sDmsUiyrO5iHoDd9cf7rJ5louIr35FS6QxbsRGVrksHLsZUF3CacgiwAky6sUQ==",
+  "dgSpecHash": "KgXCBBDHS1PveNtVyaWFhCdwZrE58HMoS0j3NGy/2TZMO06Bxbri3hgwN3iK0QD1SVz6vW+0f6TTOrBhg+Yw9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

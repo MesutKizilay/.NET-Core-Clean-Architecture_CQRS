@@ -9,3 +9,18 @@ C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\mesut\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll

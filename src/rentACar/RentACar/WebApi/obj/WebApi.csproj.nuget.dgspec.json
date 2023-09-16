@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
-        "projectName": "WebApi",
-        "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\MESUT-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\WebApi\\obj\\",
+        "projectUniqueName": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\DevExpress\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MESUT-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,12 +26,83 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\DevExpress\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -68,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

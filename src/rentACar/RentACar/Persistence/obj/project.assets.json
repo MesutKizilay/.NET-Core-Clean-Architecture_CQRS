@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MESUT-PC\\.nuget\\packages\\": {}
+    "C:\\Users\\mesut\\.nuget\\packages\\": {},
+    "E:\\DevExpress\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\MESUT-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\DevExpress\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MESUT-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
