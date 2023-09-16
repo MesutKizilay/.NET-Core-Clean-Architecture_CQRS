@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRCJQQT2yHYwM+7tx1vZHq85B+AjIrWUW9WhjuC4o/1avM4M4dCaiGF/+Ehrdu3QY9tA5ey8U+T+MvK8pUVugw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET Core Clean Architecture & CQRS\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MESUT-PC\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\MESUT-PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MESUT-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

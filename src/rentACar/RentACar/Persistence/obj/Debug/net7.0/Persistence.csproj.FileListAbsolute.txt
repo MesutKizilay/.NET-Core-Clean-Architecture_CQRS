@@ -1,0 +1,11 @@
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll

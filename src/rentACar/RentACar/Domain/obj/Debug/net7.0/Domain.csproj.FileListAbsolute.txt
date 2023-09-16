@@ -1,0 +1,11 @@
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\MESUT-PC\source\repos\.NET Core Clean Architecture & CQRS\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
