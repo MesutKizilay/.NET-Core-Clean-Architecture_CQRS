@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {}
+    "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {
+    "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mesut\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\MESUT-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\DevExpress\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\MESUT-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +44,10 @@
               "target": "Package",
               "version": "[1.3.1.2, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
               "version": "[1.3.4, )"
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
