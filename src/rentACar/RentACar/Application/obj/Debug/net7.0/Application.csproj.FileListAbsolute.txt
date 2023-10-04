@@ -38,3 +38,5 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.pdb

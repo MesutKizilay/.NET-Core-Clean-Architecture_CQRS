@@ -1,19 +1,35 @@
-﻿using MediatR;
+﻿using Application.Services.Repositories;
+using AutoMapper;
+using Domain.Entities;
+using MediatR;
 
 namespace Application.Features.Brands.Commands.Create
 {
-    public class CreateBrandCommand:IRequest<CreatedCommandResponse>
+    public class CreateBrandCommand : IRequest<CreatedBrandResponse>
     {
         public string Name { get; set; }
 
-        public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedCommandResponse>
+        public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
         {
-            public Task<CreatedCommandResponse>? Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+            private readonly IBrandRepository _brandRepository;
+            private readonly IMapper _mapper;
+
+            public CreateBrandCommandHandler(IBrandRepository brandRepository, IMapper mapper)
             {
-                CreatedCommandResponse createdCommandResponse =new CreatedCommandResponse();
-                createdCommandResponse.Name = request.Name;
-                createdCommandResponse.Id = new Guid();
-                return null;
+                _brandRepository = brandRepository;
+                _mapper = mapper;
+            }
+
+            public async Task<CreatedBrandResponse>? Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+            {
+                Brand brand = _mapper.Map<Brand>(request);
+                brand.Id = Guid.NewGuid();
+
+                await _brandRepository.AddAsync(brand);
+
+                CreatedBrandResponse createdCommandResponse = _mapper.Map<CreatedBrandResponse>(brand);
+
+                return createdCommandResponse;
             }
         }
     }
