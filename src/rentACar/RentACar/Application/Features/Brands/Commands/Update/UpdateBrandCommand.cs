@@ -2,11 +2,6 @@
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Features.Brands.Commands.Update
 {
@@ -30,7 +25,7 @@ namespace Application.Features.Brands.Commands.Update
             {
                 Brand? brand = await _brandRepository.GetAsync(predicate: b => b.Id == request.Id, cancellationToken: cancellationToken);
 
-                //brand = _mapper.Map<Brand>(request);
+                //brand = _mapper.Map<Brand>(request);Yeni instance oluşturduğu için aynı Id'ye sahip iki nesne oluşuyor.Tip'in referansı korunmalıdır.
                 brand = _mapper.Map(request, brand);
                 var response = await _brandRepository.UpdateAsync(brand);
 

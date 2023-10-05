@@ -27,7 +27,7 @@ namespace Core.Persistence.Repositories
 
         public async Task<TEntity> AddAsync(TEntity entity)
         {
-            entity.CreatedDate = DateTime.UtcNow;
+            entity.CreatedDate = DateTime.Now;
             await Context.AddAsync(entity);
             await Context.SaveChangesAsync();
             return entity;
@@ -36,7 +36,7 @@ namespace Core.Persistence.Repositories
         public async Task<ICollection<TEntity>> AddRangeAsync(ICollection<TEntity> entities)
         {
             foreach (var entity in entities)
-                entity.CreatedDate = DateTime.UtcNow;
+                entity.CreatedDate = DateTime.Now;
 
             await Context.AddRangeAsync(entities);
             await Context.SaveChangesAsync();
@@ -172,7 +172,7 @@ namespace Core.Persistence.Repositories
         {
             if (entity.DeletedDate.HasValue)
                 return;
-            entity.DeletedDate = DateTime.UtcNow;
+            entity.DeletedDate = DateTime.Now;
 
             var navigations = Context
                 .Entry(entity)

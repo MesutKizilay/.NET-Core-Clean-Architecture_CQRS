@@ -154,3 +154,8 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
