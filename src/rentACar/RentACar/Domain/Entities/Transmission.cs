@@ -2,7 +2,7 @@
 
 namespace Domain.Entities
 {
-    public class Transmission : Entity<Guid>
+    public class Transmission : Entity<int>
     {
         public string Name { get; set; }
 
@@ -13,7 +13,7 @@ namespace Domain.Entities
             Models = new HashSet<Model>();
         }
 
-        public Transmission(Guid id, string name) : this()
+        public Transmission(int id, string name) : this()
         {
             Id = id;
             Name = name;

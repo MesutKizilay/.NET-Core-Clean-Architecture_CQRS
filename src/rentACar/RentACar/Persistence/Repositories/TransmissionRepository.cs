@@ -5,7 +5,7 @@ using Persistence.Context;
 
 namespace Persistence.Repositories
 {
-    public class TransmissionRepository : EfRepositoryBase<Transmission, Guid, BaseDbContext>, ITransmissionRepository
+    public class TransmissionRepository : EfRepositoryBase<Transmission, int, BaseDbContext>, ITransmissionRepository
     {
         public TransmissionRepository(BaseDbContext context) : base(context)
         {

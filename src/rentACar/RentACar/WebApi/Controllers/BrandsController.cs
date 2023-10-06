@@ -29,7 +29,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("GetById/{id}")]
-        public async Task<IActionResult> GetById([FromRoute] Guid id)
+        public async Task<IActionResult> GetById([FromRoute] int id)
         {
             GetByIdBrandQuery getByIdBrandQuery = new GetByIdBrandQuery() { Id = id };
             GetByIdBrandResponse response = await Mediator.Send(getByIdBrandQuery);
@@ -44,7 +44,7 @@ namespace WebApi.Controllers
         }
 
         [HttpDelete("Delete/{id}")]
-        public async Task<IActionResult> Delete([FromRoute] Guid id)
+        public async Task<IActionResult> Delete([FromRoute] int id)
         {
             DeletedBrandResponse response = await Mediator.Send(new DeleteBrandCommand { Id=id});
             return Ok(response);

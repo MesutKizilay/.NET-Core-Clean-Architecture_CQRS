@@ -2,7 +2,7 @@
 
 namespace Domain.Entities
 {
-    public class Fuel : Entity<Guid>
+    public class Fuel : Entity<int>
     {
         public string Name { get; set; }
 
@@ -13,7 +13,7 @@ namespace Domain.Entities
             Models = new HashSet<Model>();
         }
 
-        public Fuel(Guid id,string name):this()
+        public Fuel(int id,string name):this()
         {
             Id = id; 
             Name = name;

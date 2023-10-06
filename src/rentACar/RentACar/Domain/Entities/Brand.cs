@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    public class Brand:Entity<Guid>
+    public class Brand:Entity<int>
     {
         public string Name { get; set; }
 
@@ -18,7 +18,7 @@ namespace Domain.Entities
             Models = new HashSet<Model>();
         }
 
-        public Brand(Guid id,string name):this()
+        public Brand(int id,string name):this()
         {
             Id = id;
             Name = name;

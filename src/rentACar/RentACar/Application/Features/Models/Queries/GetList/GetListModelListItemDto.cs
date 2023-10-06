@@ -8,7 +8,7 @@ namespace Application.Features.Models.Queries.GetList
 {
     public class GetListModelListItemDto
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public string BrandName { get; set; }
         public string FuelName { get; set; }
         public string TransmissionName { get; set; }

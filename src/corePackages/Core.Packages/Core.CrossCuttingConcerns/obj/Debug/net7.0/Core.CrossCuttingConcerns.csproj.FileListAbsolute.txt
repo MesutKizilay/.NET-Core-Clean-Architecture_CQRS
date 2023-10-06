@@ -1,0 +1,11 @@
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.deps.json
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll

@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    public class Model : Entity<Guid>
+    public class Model : Entity<int>
     {
-        public Guid BrandId { get; set; }
-        public Guid FuelId { get; set; }
-        public Guid TransmissionId { get; set; }
+        public int BrandId { get; set; }
+        public int FuelId { get; set; }
+        public int TransmissionId { get; set; }
         public string Name { get; set; }
         public decimal DailyPrice { get; set; }
         public string ImageUrl { get; set; }
@@ -28,7 +28,7 @@ namespace Domain.Entities
             Cars = new HashSet<Car>();
         }
 
-        public Model(Guid id, Guid brandId, Guid fuelId, Guid transmissionId, string name, decimal dailyPrice, string imageUrl) : this()
+        public Model(int id, int brandId, int fuelId, int transmissionId, string name, decimal dailyPrice, string imageUrl) : this()
         {
             Id = id;
             BrandId = brandId;

@@ -3,9 +3,9 @@ using Domain.Enums;
 
 namespace Domain.Entities
 {
-    public class Car:Entity<Guid>
+    public class Car:Entity<int>
     {
-        public Guid ModelId { get; set; }
+        public int ModelId { get; set; }
         public int Kilometer { get; set; }
         public short ModelYear { get; set; }
         public string Plate { get; set; }
@@ -19,7 +19,7 @@ namespace Domain.Entities
 
         }
 
-        public Car(Guid modelId, int kilometer, short modelYear, string plate, short minFindexScore, CarState carState):this()
+        public Car(int modelId, int kilometer, short modelYear, string plate, short minFindexScore, CarState carState):this()
         {
             ModelId = modelId;
             Kilometer = kilometer;

@@ -3,7 +3,7 @@ using Domain.Entities;
 
 namespace Application.Services.Repositories
 {
-    public interface IFuelRepository : IAsyncRepository<Fuel, Guid>/*,IRepository<Brand,Guid>*/
+    public interface IFuelRepository : IAsyncRepository<Fuel, int>/*,IRepository<Brand,Guid>*/
     {
     }
 }

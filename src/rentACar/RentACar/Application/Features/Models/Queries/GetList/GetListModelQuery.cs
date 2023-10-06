@@ -2,16 +2,14 @@
 using AutoMapper;
 using Core.Application.Requests;
 using Core.Application.Responses;
+using Core.Persistence.Paging;
+using Domain.Entities;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace Application.Features.Models.Queries.GetList
 {
-    public class GetListModelQuery:IRequest<GetListResponse<GetListModelListItemDto>>
+    public class GetListModelQuery : IRequest<GetListResponse<GetListModelListItemDto>>
     {
         public PageRequest PageRequest { get; set; }
 
@@ -26,9 +24,16 @@ namespace Application.Features.Models.Queries.GetList
                 _mapper = mapper;
             }
 
-            public Task<GetListResponse<GetListModelListItemDto>> Handle(GetListModelQuery request, CancellationToken cancellationToken)
+            public async Task<GetListResponse<GetListModelListItemDto>> Handle(GetListModelQuery request, CancellationToken cancellationToken)
             {
-                throw new NotImplementedException();
+                Paginate<Model> models = await _modelRepository.GetListAsync(
+                    include: m => m.Include(m => m.Brand).Include(m => m.Fuel).Include(m => m.Transmission),
+                    index: request.PageRequest.PageIndex,
+                    size: request.PageRequest.PageSize
+                    );
+
+                GetListResponse<GetListModelListItemDto> response = _mapper.Map<GetListResponse<GetListModelListItemDto>>(models);
+                return response;
             }
         }
     }

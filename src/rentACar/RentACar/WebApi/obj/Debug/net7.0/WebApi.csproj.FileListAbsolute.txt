@@ -159,3 +159,6 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

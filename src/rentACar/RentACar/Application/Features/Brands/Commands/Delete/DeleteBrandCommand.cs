@@ -7,7 +7,7 @@ namespace Application.Features.Brands.Commands.Delete
 {
     public class DeleteBrandCommand : IRequest<DeletedBrandResponse>
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
 
         public class DeletedBrandCommandHandler : IRequestHandler<DeleteBrandCommand, DeletedBrandResponse>
         {

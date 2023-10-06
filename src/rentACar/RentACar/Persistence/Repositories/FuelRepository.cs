@@ -5,7 +5,7 @@ using Persistence.Context;
 
 namespace Persistence.Repositories
 {
-    public class FuelRepository : EfRepositoryBase<Fuel, Guid, BaseDbContext>, IFuelRepository
+    public class FuelRepository : EfRepositoryBase<Fuel, int, BaseDbContext>, IFuelRepository
     {
         public FuelRepository(BaseDbContext context) : base(context)
         {

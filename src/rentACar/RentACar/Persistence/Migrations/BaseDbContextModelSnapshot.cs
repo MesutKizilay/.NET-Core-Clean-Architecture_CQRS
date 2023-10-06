@@ -24,10 +24,12 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.Entities.Brand", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
+                        .HasColumnType("int")
                         .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2")
@@ -56,10 +58,12 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.Entities.Car", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
+                        .HasColumnType("int")
                         .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("CarState")
                         .HasColumnType("int")
@@ -80,8 +84,8 @@ namespace Persistence.Migrations
                     b.Property<short>("MinFindexScore")
                         .HasColumnType("smallint");
 
-                    b.Property<Guid>("ModelId")
-                        .HasColumnType("uniqueidentifier")
+                    b.Property<int>("ModelId")
+                        .HasColumnType("int")
                         .HasColumnName("ModelId");
 
                     b.Property<short>("ModelYear")
@@ -105,10 +109,12 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.Entities.Fuel", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
+                        .HasColumnType("int")
                         .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2")
@@ -137,13 +143,15 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.Entities.Model", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
+                        .HasColumnType("int")
                         .HasColumnName("Id");
 
-                    b.Property<Guid>("BrandId")
-                        .HasColumnType("uniqueidentifier")
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BrandId")
+                        .HasColumnType("int")
                         .HasColumnName("BrandId");
 
                     b.Property<DateTime>("CreatedDate")
@@ -158,8 +166,8 @@ namespace Persistence.Migrations
                         .HasColumnType("datetime2")
                         .HasColumnName("DeletedDate");
 
-                    b.Property<Guid>("FuelId")
-                        .HasColumnType("uniqueidentifier")
+                    b.Property<int>("FuelId")
+                        .HasColumnType("int")
                         .HasColumnName("FuelId");
 
                     b.Property<string>("ImageUrl")
@@ -172,8 +180,8 @@ namespace Persistence.Migrations
                         .HasColumnType("nvarchar(450)")
                         .HasColumnName("Name");
 
-                    b.Property<Guid>("TransmissionId")
-                        .HasColumnType("uniqueidentifier")
+                    b.Property<int>("TransmissionId")
+                        .HasColumnType("int")
                         .HasColumnName("TransmissionId");
 
                     b.Property<DateTime?>("UpdatedDate")
@@ -196,10 +204,12 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.Entities.Transmission", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier")
+                        .HasColumnType("int")
                         .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2")
