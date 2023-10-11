@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\MESUT-PC\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\DevExpress 23.1\Components\Offline Packages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\MESUT-PC\.nuget\packages\newtonsoft.json\9.0.1</PkgNewtonsoft_Json>
+  </PropertyGroup>
 </Project>

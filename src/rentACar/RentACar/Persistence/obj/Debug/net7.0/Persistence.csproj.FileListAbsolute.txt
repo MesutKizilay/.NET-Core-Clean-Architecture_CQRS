@@ -27,9 +27,13 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Persistence.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Application.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Application.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Domain.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
@@ -40,7 +44,3 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Application.dll
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Application.pdb
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
