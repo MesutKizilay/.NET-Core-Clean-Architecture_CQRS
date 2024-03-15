@@ -122,7 +122,7 @@ namespace Core.Persistence.Repositories
 
         public async Task<TEntity> UpdateAsync(TEntity entity)
         {
-            entity.UpdatedDate=DateTime.Now;
+            entity.UpdatedDate = DateTime.Now;
             Context.Update(entity);
             await Context.SaveChangesAsync();
             return entity;
@@ -131,7 +131,7 @@ namespace Core.Persistence.Repositories
         public async Task<ICollection<TEntity>> UpdateRangeAsync(ICollection<TEntity> entities)
         {
             foreach (TEntity entity in entities)
-                entity.UpdatedDate=DateTime.Now;
+                entity.UpdatedDate = DateTime.Now;
             Context.UpdateRange(entities);
             await Context.SaveChangesAsync();
             return entities;

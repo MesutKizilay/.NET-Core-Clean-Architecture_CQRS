@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OIhjRJ6mUZdzzgIpaneaM+k+rV//hce8Tx2qeAfFycbEfpVeDQ5VPsDNJIoiVdL1QYWcg/itejC9Lfsf+mFgbw==",
+  "dgSpecHash": "XDtJXoxv7Q4wqvWrZ0RBI+K0AWL687ypqJPacjb/Hgsy0gGBYWY3HAd4rKU1jP66A6tZEqkUhByFnOqxsZ6iuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],

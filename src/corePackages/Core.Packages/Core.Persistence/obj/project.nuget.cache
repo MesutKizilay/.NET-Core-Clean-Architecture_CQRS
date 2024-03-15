@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DspuuoNALoKK6fmDez50ccNxmT2YmAeQC9gWtvesSy0/xljt4n2UqgV9x8w2f2WtPAAPqmJGwDwpu7zHgR9hNg==",
+  "dgSpecHash": "CfF5li/iQa4BLmdMtr7Kt/Dbj/AhnYhUYoEiC0NzZWV+nag+SbV1SGu4/+GEnyrjCTm6PI5igkZ8KPtg+loBBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fEjtk59+PCKfnBh/phH3/Mx7V5gGfse29J3k/OL+Wc1rwKFOR3jsRs2a5P/ELbR5WFLOsmbCnoo8QloPphPW2w==",
+  "dgSpecHash": "2r0NDtVNQfGFhTF/OVUK8MsqtpjGHmtOrf5JmHPqqYhSrCsD9CBpOZYTzcf+g7hMQZRzf0Qvpm4/X2koehzadQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [

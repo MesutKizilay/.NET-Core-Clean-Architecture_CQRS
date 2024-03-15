@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "acFI89/yHHV56xebCECeV8d3X59LF5JeKga+5WAvGW4yef6aGlP9mC+Wi3XE7lilZnvyjQj1erfq1HFi236J0g==",
+  "dgSpecHash": "MhzgNPiaifN1Ikt/+EUkIGNAcIwUMcsLAej/yjrpXnVTPxRfqwzJUoakL2ZTX0meQ/DzvZ13KiBqx3ja3JSXyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
   "expectedPackageFiles": [

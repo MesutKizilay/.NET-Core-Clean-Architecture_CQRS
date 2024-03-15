@@ -34,7 +34,7 @@ namespace Core.CrossCuttingConcerns.Exceptions
             }
             catch (Exception exception)
             {
-                await LogException(context,exception);
+                await LogException(context, exception);
                 await HandleExceptionAsync(context.Response, exception);
             }
         }
@@ -49,9 +49,9 @@ namespace Core.CrossCuttingConcerns.Exceptions
             LogDetailWithException logDetailWithMessage = new LogDetailWithException()
             {
                 ExceptionMessage = exception.Message,
-                MethodName=_next.Method.Name,
-                LogParameters=parameters,
-                User=_httpContextAccessor.HttpContext?.User.Identity.Name??"?"
+                MethodName = _next.Method.Name,
+                LogParameters = parameters,
+                User = _httpContextAccessor.HttpContext?.User.Identity.Name ?? "?"
             };
 
             _loggerServiceBase.Error(JsonSerializer.Serialize(logDetailWithMessage));
