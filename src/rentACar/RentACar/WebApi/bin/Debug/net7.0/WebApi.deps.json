@@ -902,6 +902,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Core.Security/1.0.0.0": {
+        "runtime": {
+          "Core.Security.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1553,6 +1561,11 @@
       "sha512": ""
     },
     "Core.Persistence/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Security/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

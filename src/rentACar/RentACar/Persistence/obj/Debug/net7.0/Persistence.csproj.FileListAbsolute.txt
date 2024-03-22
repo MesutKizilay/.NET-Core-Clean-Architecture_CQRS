@@ -39,8 +39,11 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Security.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Security.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persiste.61C28332.Up2Date

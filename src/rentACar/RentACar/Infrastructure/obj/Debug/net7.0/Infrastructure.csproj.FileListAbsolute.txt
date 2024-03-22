@@ -32,3 +32,4 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\Re
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

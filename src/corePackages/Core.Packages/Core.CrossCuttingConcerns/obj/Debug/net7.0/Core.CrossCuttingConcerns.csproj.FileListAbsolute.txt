@@ -10,3 +10,4 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackage
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.sourcelink.json

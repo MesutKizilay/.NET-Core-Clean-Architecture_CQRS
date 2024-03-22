@@ -8,10 +8,13 @@ C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackage
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfoInputs.cache
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfo.cs
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CoreCompileInputs.cache
-C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.sourcelink.json
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.App.01B2A2D7.Up2Date
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Security.dll
+C:\Users\MESUT-PC\source\repos\.NET-Core-Clean-Architecture_CQRS\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Security.pdb

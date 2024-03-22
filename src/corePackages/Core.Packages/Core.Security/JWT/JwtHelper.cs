@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -29,7 +30,15 @@ namespace Core.Security.JWT
 
         public RefreshToken CreateRefreshToken(User user, string ipAddress)
         {
-            throw new NotImplementedException();
+            RefreshToken refreshToken = new RefreshToken()
+            {
+                UserId = user.Id,
+                Token=RandomRefreshToken(),
+                Expires=DateTime.UtcNow.AddDays(7),
+                CreatedByIp=ipAddress
+            };
+
+            return refreshToken;
         }
 
         public AccessToken CreateToken(User user, IList<OperationClaim> operationClaims)
@@ -64,6 +73,14 @@ namespace Core.Security.JWT
             claims.AddName($"{user.FirstName} {user.LastName}");
             claims.AddRoles(operationClaims.Select(c => c.Name).ToArray());
             return claims;
+        }
+
+        private string RandomRefreshToken()
+        {
+            byte[] numberByte = new byte[32];
+            using var random = RandomNumberGenerator.Create();
+            random.GetBytes(numberByte);
+            return Convert.ToBase64String(numberByte);
         }
     }
 }
