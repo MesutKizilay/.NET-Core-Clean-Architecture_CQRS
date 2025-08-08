@@ -8407,26 +8407,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MESUT-PC\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {},
+    "C:\\Users\\mesut.kizilay\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
+      "projectUniqueName": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
       "projectName": "Core.Application",
-      "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
-      "packagesPath": "C:\\Users\\MESUT-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\obj\\",
+      "projectPath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
+      "packagesPath": "C:\\Users\\mesut.kizilay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MESUT-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+        "C:\\Users\\mesut.kizilay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8435,22 +8432,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
-              "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+            "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+              "projectPath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
             },
-            "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {
-              "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj"
+            "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj"
             },
-            "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Security\\Core.Security.csproj": {
-              "projectPath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Security\\Core.Security.csproj"
+            "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Security\\Core.Security.csproj": {
+              "projectPath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\corePackages\\Core.Packages\\Core.Security\\Core.Security.csproj"
             }
           }
         }
@@ -8464,7 +8459,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -8499,7 +8495,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

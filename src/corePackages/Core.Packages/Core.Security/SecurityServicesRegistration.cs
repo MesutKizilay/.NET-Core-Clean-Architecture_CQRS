@@ -7,7 +7,7 @@ namespace Core.Security
 {
     public static class SecurityServicesRegistration
     {
-        public static IServiceCollection AddSecurity(this IServiceCollection services)
+        public static IServiceCollection AddSecurityServices(this IServiceCollection services)
         {
             services.AddScoped<ITokenHelper,JwtHelper>();
             //services.AddScoped<IEmailAuthenticatorHelper, EmailAuthenticatorHelper>();

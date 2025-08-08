@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDtJXoxv7Q4wqvWrZ0RBI+K0AWL687ypqJPacjb/Hgsy0gGBYWY3HAd4rKU1jP66A6tZEqkUhByFnOqxsZ6iuw==",
+  "dgSpecHash": "cuykKY8Bk18=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MESUT-PC\\source\\repos\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\mesut.kizilay\\Desktop\\.NET-Core-Clean-Architecture_CQRS\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
